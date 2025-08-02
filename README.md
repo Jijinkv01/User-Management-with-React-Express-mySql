@@ -4,7 +4,7 @@ Watch the screen recording of the project running locally:
 Click here to watch on Google Drive =>  https://drive.google.com/file/d/1qapFP2AaoRSp6RvE2JQpj57RnaSY5hOj/view?usp=sharing
 
 
-User Management Application with Role-Based Access
+ ##   User Management Application with Role-Based Access
 
 This is a full-stack User Management application built with **React**, **Node.js**, **Express.js**, and **MySQL**.  
 It includes authentication, role-based access, email verification, and many more useful features.
